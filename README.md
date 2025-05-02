@@ -31,8 +31,8 @@ Let’s collaborate and bring your next project to life!
 
 <p align="left">
   <strong>Front-End:</strong> HTML, CSS, Tailwind, JavaScript, React.<br>
-  <strong>Back-End:</strong> Node, Express.<br>
-  <strong>Database:</strong> MongoDB
+  <strong>Back-End:</strong> Node, PHP.<br>
+  <strong>Database:</strong> MySQL
 </p>
 
 <h2 align="left">Work with -</h2>
@@ -74,10 +74,6 @@ Let’s collaborate and bring your next project to life!
 <h2 align="left">Find Me On</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jahidul-islam-jahid/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/jahidjak2/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidjak2&show_icons=true)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidjak2)](https://github.com/anuraghazra/github-readme-stats)
 </div>
