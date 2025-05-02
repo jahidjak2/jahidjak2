@@ -71,9 +71,14 @@ Let’s collaborate and bring your next project to life!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidjak2&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en" height="150" alt="languages graph" />
 </div>
 
-<h2 align="left">Find Me On</h2>
+<h2 align="left">Connect with me!</h2>
 
 <div align="left">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidjak2&show_icons=true)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidjak2)](https://github.com/anuraghazra/github-readme-stats)
+  [<img src='https://github.com/jahidjak2/jahidjak2/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/jahidjak2)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/jahid_jak/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/jahidjak23)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@islamiczone360)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidul-islam-jahid/)  
 </div>
+
+
+<h2 align="left">For Inquiries </h2>
+<div align="left">
+ ✅  ► jahidulislamjak2@gmail.com
+ </div>
