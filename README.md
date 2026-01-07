@@ -4,34 +4,34 @@
 
 <h1 align="left">Hi, I'm Jahidul Islam Jahid</h1>
 
-<h4 align="left">Front-End Developer</h4>
+<h4 align="left">Junior Software Engineer</h4>
 
 <h6 align="left"><p>
-👑 I am Junior Web Developer <br> 
+👑 I am Junior Software Engineer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> .</h6>
 
-<p align="left"> <a href="https://www.linkedin.com/in/jahidul-islam-jahid/" target="blank"><img src="https://img.shields.io/twitter/follow/Jahidul Islam Jahid?logo=twitter&style=for-the-badge" alt="jahidjak23" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jahidul-islam-jahid22/" target="blank"><img src="https://img.shields.io/twitter/follow/Jahidul Islam Jahid?logo=twitter&style=for-the-badge" alt="jahidjak23" /></a> </p>
 
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  Hi, I’m Jahidul Islam Jahid, a dedicated junior web developer with a strong passion for building clean and user-friendly web experiences.
-I specialize in React, Tailwind CSS, and modern front-end technologies, always aiming to blend creativity with functionality.
+  Hi, I’m Jahidul Islam Jahid, a dedicated Junior Software Engineer with a strong passion for building clean and user-friendly web experiences.
+I specialize in Laravel, React, Tailwind CSS, MySQL and modern technologies, always aiming to blend creativity with functionality.
 From designing responsive layouts to developing dynamic web applications, I enjoy turning innovative ideas into practical digital solutions.
 Let’s collaborate and bring your next project to life!
 </p>
 
 <p align="left">
   ✨ Creating bugs since ... 2023<br>
-  📚 I'm currently learning ... PHP and Node.js<br>
-  🎯 Goals: ... be a Full Stack Developer<br>
-  🎲 Fun fact: ... love to browse and explore
+  📚 I'm currently learning ... Laravel and Rest Api s<br>
+  🎯 Goals: ... be a Software Engineer<br>
+  🎲 Fun fact: ... love to browse, code and explore
 </p>
 
 <p align="left">
-  <strong>Front-End:</strong> HTML, CSS, Tailwind, JavaScript, React.<br>
-  <strong>Back-End:</strong> Node, PHP.<br>
+  <strong>Front-End:</strong> HTML, CSS, Tailwind, Bootstrap, JavaScript, Blade, React.<br>
+  <strong>Back-End:</strong> Laravel, PHP, Node.<br>
   <strong>Database:</strong> MySQL
 </p>
 
@@ -75,7 +75,7 @@ Let’s collaborate and bring your next project to life!
 
 <div align="left">
   <a href="https://www.facebook.com/jahidjak2" target="blank"><img src='https://github.com/jahidjak2/jahidjak2/blob/main/facebook.png?raw=true' alt='facebook' height='40'></a>
-  <a href="https://www.linkedin.com/in/jahidul-islam-jahid/" target="blank"><img src='https://github.com/jahidjak2/jahidjak2/blob/main/linkedin.png?raw=true' alt='linkedin' height='40'></a>
+  <a href="https://www.linkedin.com/in/jahidul-islam-jahid22/" target="blank"><img src='https://github.com/jahidjak2/jahidjak2/blob/main/linkedin.png?raw=true' alt='linkedin' height='40'></a>
   <a href="https://x.com/jahidjak23" target="blank"><img src='https://github.com/jahidjak2/jahidjak2/blob/main/twitter.png?raw=true' alt='twitter' height='40'></a>
   <a href="https://www.instagram.com/jahid_jak/" target="blank"><img src='https://github.com/jahidjak2/jahidjak2/blob/main/instagram.png?raw=true' alt='instagram' height='40'></a>
   <a href="https://www.youtube.com/@islamiczone360" target="blank"><img src='https://github.com/jahidjak2/jahidjak2/blob/main/youtube.png?raw=true' alt='YouTube' height='40'></a>
