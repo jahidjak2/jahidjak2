@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://raw.githubusercontent.com/jahidjak2/jahidjak2/main/github%20banner.png"  />
+  <img height="auto" width="100%" src="https://raw.githubusercontent.com/jahidjak2/jahidjak2/main/new-cover.png"  />
 </div>
 
 <h1 align="left">Hi, I'm Jahidul Islam Jahid</h1>
